@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "github.api.url",
+      "type": "java.lang.String",
+      "description": "Description for github.api.url."
+    }
+  ]
+}
